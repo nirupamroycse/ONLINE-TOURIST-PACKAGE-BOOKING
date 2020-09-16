@@ -11,10 +11,11 @@ The objectives are listed below:
  	Online Booking
 
 Users
-	Public
-	Tourist
-	Tour Organizers
-Advantages
+#	Public
+#	Tourist
+#	Tour Organizers
+
+##Advantages
 	Easy and cheap prototype
 	Connects with clients easily
 
