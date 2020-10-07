@@ -1,0 +1,29 @@
+.bghimg{
+	background-image: url(../img/bgimg.jpg) !important;
+	background-position: center;
+	background-size: cover!important;
+	background-repeat: no-repeat !important;
+	position: static !important;
+	background-image-height:cover; 
+}
+.bg-color{
+	background-color: #41d108;
+	text-decoration-color: white;
+}
+.htitle{
+	text-transform:none;
+	text-shadow: green;
+}
+
+.packagebox{
+	width: 80px !important;
+	height: 350px !important;
+	word-wrap: break-word;
+	margin-left: 24px  !important;
+	margin-right: 24px  !important;
+	margin-bottom: 24px  !important;
+	margin-top: 24px  !important;
+	padding: 20px  !important;
+
+	float: right !important;
+}
